@@ -1,4 +1,4 @@
-# Dolan Friendly Services Website v3
+# Dolan Friendly Services Website v4
 
 Public home base for Dolan Friendly Services.
 
@@ -8,6 +8,7 @@ Public home base for Dolan Friendly Services.
 - Quick Assist Guide PDF download
 - Public price guide
 - Contact and availability section
+- Remote Support information page for Windows 10/11 Quick Assist sessions
 
 ## Live URL
 
