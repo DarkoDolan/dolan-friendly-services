@@ -1,24 +1,19 @@
-# Dolan Friendly Services Website v1 Kit
+# Dolan Friendly Services Website v2
 
-This is the first public website/home base for Dolan Friendly Services.
+Public home base for Dolan Friendly Services.
 
-## What is included
+## Included
 
-- `index.html` — the website homepage
-- `assets/dfs-logo-prompt.png` — main DFS logo banner
-- `assets/dfs-icon.png` — DFS app/icon mark
-- `downloads/DFS_Quick_Assist_Guide_v1.pdf` — public Quick Assist guide download
-- `copy/product_listing_copy.md` — listing text for product pages, Ko-fi, Buy Me a Coffee, etc.
-- `UPLOAD_INSTRUCTIONS.md` — simple GitHub Pages upload instructions
+- Live links to the ChatGPT Usage Tracker
+- Quick Assist Guide PDF download
+- Simple public price guide
+- Contact and availability section
+- No payment/support placeholder text
 
-## Suggested GitHub repo name
+## Live URL
 
-`dolan-friendly-services`
+https://darkodolan.github.io/dolan-friendly-services/
 
-## Suggested live URL after GitHub Pages is enabled
+## Notes
 
-`https://darkodolan.github.io/dolan-friendly-services/`
-
-## Later edits
-
-Replace the support placeholder section in `index.html` with a real support link when ready.
+Phone number and ABN are not listed until Dale chooses to make them public.
